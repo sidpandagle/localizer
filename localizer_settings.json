@@ -1,0 +1,34 @@
+{
+  "language_combinations": [
+    {
+      "language": "English",
+      "output_path": "english.properties",
+      "enabled": true
+    },
+    {
+      "language": "Chinese (Simplified)",
+      "output_path": "E:/Siddhant/Projects/ai-projects/localizer/chinese.properties",
+      "enabled": true
+    },
+    {
+      "language": "German",
+      "output_path": "E:/Siddhant/Projects/ai-projects/localizer/german.properties",
+      "enabled": true
+    },
+    {
+      "language": "French",
+      "output_path": "E:/Siddhant/Projects/ai-projects/localizer/french.properties",
+      "enabled": true
+    },
+    {
+      "language": "Japanese",
+      "output_path": "E:/Siddhant/Projects/ai-projects/localizer/japanese.properties",
+      "enabled": true
+    },
+    {
+      "language": "Spanish",
+      "output_path": "E:/Siddhant/Projects/ai-projects/localizer/spanish.properties",
+      "enabled": true
+    }
+  ]
+}
